@@ -1,0 +1,14 @@
+{
+    "name": "SortComponents.Editor",
+    "references": [
+        "SortComponents"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "optionalUnityReferences": [],
+    "precompiledReferences": [],
+    "defineConstraints": [],
+    "overrideReferences": false,
+    "autoReferenced": false
+}
